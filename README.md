@@ -1,7 +1,8 @@
 # Introduction
 This is my first plugin for SCP: Secret Laboratory, designed as a learning project. I chose to implement Coin Gambling because I've encountered similar plugins during my years of playing. This allowed me to concentrate on coding without the need to create something entirely new.
 # Description
-This project is an SCP: Secret Laboratory plugin that utilizes the Exiled framework.\n
+This project is an SCP: Secret Laboratory plugin that utilizes the Exiled framework.
+
 The plugin is unbalanced.
 # Default Config
 ```yaml
