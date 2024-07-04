@@ -113,3 +113,5 @@ CoinGamble:
 For questions or support, contact me on discord "Trixder".
 ---
 Feel free to use this as you please.
+
+If you're planning to use this plugin on your server, I recommend adjusting the values to suit your preferences.
