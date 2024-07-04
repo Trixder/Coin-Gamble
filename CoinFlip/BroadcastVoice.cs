@@ -16,7 +16,6 @@ namespace CoinGamble.CoinFlip
             player.RemoveItem(item, true);
 
             player.VoiceChannel = VoiceChat.VoiceChatChannel.ScpChat;
-            Log.Info(player.VoiceChannel);
 
             PlayerRoles.Voice.Intercom.TrySetOverride(player.ReferenceHub, true);
             yield return Timing.WaitForSeconds(config.CoinBroadcastTime);
