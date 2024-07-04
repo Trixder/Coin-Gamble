@@ -108,7 +108,7 @@ CoinGamble:
     # Indicates whether the broadcast should be shown or not
     show: true
 ```
-## Contact
-For questions or support, contact me on discord Trixder.
+# Contact
+For questions or support, contact me on discord "Trixder".
 ---
 Feel free to use this as you please.
